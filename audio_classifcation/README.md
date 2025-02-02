@@ -24,7 +24,7 @@ pip install -r src/requirements.txt
 The methodology followed in the project can be seen in the various jupyter notebooks.
 
 ### Data Preprocess
-In this [first notebook](audio_classifcation/pre_process.ipynb) visual demonstration of spectrogram from each class has been displayed , which is obtained my 3 different window tengniques. <be>.
+In this [first notebook](https://github.com/mitesh-kr/Speech_Understanding_Assignment_1/blob/main/audio_classifcation/pre_process.ipynb) visual demonstration of spectrogram from each class has been displayed , which is obtained my 3 different window tengniques. <be>.
 
 
 ### Feature extraction and dataset creation
