@@ -45,4 +45,11 @@ The repository contains the following structure:
 │   └── requirements.txt
  ```
 
+## Clone the Repository
+
+To clone this repository, run the following command in your terminal:
+```bash
+git clone https://github.com/mitesh-kr/Speech_Understanding_Assignment_1.git
+
+
 
