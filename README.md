@@ -32,16 +32,17 @@ A Python-based tool for analyzing and visualizing audio features of different mu
 ## Directory Structure
 
 The repository contains the following structure:
-
-├── audio_classification/ 
-│ ├── feature_extraction.ipynb
-│ ├── pre_process.ipynb
-│ ├── Rectangular_window_based_classification.ipynb
-│ ├── hamming_window_based_classification.ipynb
-│ ├── hann_window_based_classification.ipynb
-│ └── requirements.txt
+ ```
+├── audio_classification/
+│   ├── feature_extraction.ipynb
+│   ├── pre_process.ipynb
+│   ├── Rectangular_window_based_classification.ipynb
+│   ├── hamming_window_based_classification.ipynb
+│   ├── hann_window_based_classification.ipynb
+│   └── requirements.txt
 ├── song_analysis/
-│ ├── Q2_TaskB.ipynb
-│ └── requirements.txt
+│   ├── Q2_TaskB.ipynb
+│   └── requirements.txt
+ ```
 
 
