@@ -1,7 +1,6 @@
 # Urban sound classification
 
-The goal of the project is to build a neural network capable of classification on the [Urban Sound 8k dataset](https://urbansounddataset.weebly.com/urbansound8k.html).<br>
-An in depth overview of the project is present on the [project report](https://github.com/tomfran/urban-sound-classification/blob/main/report/report.pdf).
+The goal of the project is to build a neural network capable of classification on the [Urban Sound 8k dataset](https://drive.google.com/drive/folders/1OjQNi9TJHK99DZyhiZPl8NlFbIQqaLFg?usp=drive_link).<br>
 
 ## Project structure
 The project folder is structured as follows:
@@ -14,8 +13,8 @@ of the project
 - **report/** contains the project report written in Latex
 
 ## Requirements
-Libraries used in the project are the following: *pandas*, *numpy*, *matplotlib*, *tensorflow*, *librosa*, *dask*, *keras_nightly*, *keras*, *scikit_learn*
- 
+Libraries used in the project are the following: *pandas*, *numpy*, *matplotlib*, *tensorflow*, *torch*, *torchvision*, *seaborn*, *keras*, *scikit_learn*, *timm*, *ipython*
+
 You can install them using the following command
 ```[shell]
 pip install -r src/requirements.txt
