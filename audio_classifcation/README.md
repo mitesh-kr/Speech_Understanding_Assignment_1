@@ -4,13 +4,6 @@ The goal of the project is to build a neural network capable of classification o
 
 ## Project structure
 The project folder is structured as follows:
-- **data/** contains processed and raw data. To reproduce results using the dataset, 
-put the folds folders inside **data/raw/audio**, then put the metadata file inside **data/raw/metadata**
-- **models/** contains trained models, namely the scaler and pca used in the project
-- **notebooks/** contains the Jupyter notebooks used execute the code
-- **src/** contains **data**, **model** and **utils** sub-folders, with code regarding the different parts 
-of the project
-- **report/** contains the project report written in Latex
 
 ## Requirements
 Libraries used in the project are the following: *pandas*, *numpy*, *matplotlib*, *tensorflow*, *torch*, *torchvision*, *seaborn*, *keras*, *scikit_learn*, *timm*, *ipython*
