@@ -18,9 +18,9 @@ A comprehensive audio classification system based on the spectrogram obtained fr
 - **Hamming Window-based Classification**: Classifies audio using the Hamming window for STFT.
 - **Hann Window-based Classification**: Classifies audio using the Hann window for STFT.
 
-## Spectrogram Analysis of songs from four different genre
+## Spectrogram Analysis of songs from four different genres
 
-A Python-based tool for analyzing and visualizing audio features of different music genres. The tool utilizes PyTorch and torchaudio libraries to process audio files and generate waveforms and spectrograms.
+A Python-based tool for analyzing and visualizing audio features of different music genres. The tool utilizes PyTorch and torch audio libraries to process audio files and generate waveforms and spectrograms.
 
 ### Key Features:
 
