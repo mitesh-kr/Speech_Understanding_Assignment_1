@@ -23,9 +23,11 @@ pip install -r src/requirements.txt
 ## Methodology
 The methodology followed in the project can be seen in the various jupyter notebooks.
 
+### Data Preprocess
+In this [first notebook](audio_classifcation/pre_process.ipynb) visual demonstration of spectrogram from each class has been displayed , which is obtained my 3 different window tengniques. <be>.
+
+
 ### Feature extraction and dataset creation
-In the [first notebook](https://github.com/tomfran/urban-sound-classification/blob/main/notebooks/01_dataset.ipynb) audio features are extracted using Librosa library and scaling 
-is applied. <br>
 In the [second notebook](https://github.com/tomfran/urban-sound-classification/blob/main/notebooks/02_dataset_extended_cnn.ipynb), more features are extracted and PCA feature selection is exploited to reduce the dataset dimensionality.
 Also, audio as an image is extracted from the dataset for later training a CNN.
 
